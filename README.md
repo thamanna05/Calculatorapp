@@ -1,7 +1,6 @@
 # Calculatorapp
 The libraries i used in making of this calculator is argparse library.
 Calucaltorapp performs 4 basic operations(additon,subraction,multiplication and division).
-For an user to access the operations, give 2 inputs number1 and number2 and the operation the user want to perform(+,-,*,/).
 While making this app, i learnt how argarse library and its commands work.
 
 Steps to run the program:
