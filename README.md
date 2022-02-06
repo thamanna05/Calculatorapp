@@ -1,7 +1,7 @@
 # Calculatorapp
 
 ## Library used
-The libraries i used in making of this calculator is argparse library.
+The library i used in making of this calculator is argparse library.
 
 ## Operations performed
 Calucaltorapp performs 4 basic operations(additon,subraction,multiplication and division).
