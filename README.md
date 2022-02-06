@@ -14,7 +14,7 @@ Calucaltorapp performs 4 basic operations(additon,subraction,multiplication and 
 [click_to_view_different_outputs](https://user-images.githubusercontent.com/85679469/152690138-95c6b181-ccea-4e45-beb2-048cfdfe75d1.PNG)
 
 ## Skills gained
-While building this project i learnt how argparse library and its commands work.
+While building this project i learnt how argparse library and its commands wor and how to deine and call function in python.
 
 
 
